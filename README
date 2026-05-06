@@ -1,0 +1,18 @@
+# Python Basics Practice - Day 10
+
+This repository contains beginner Python programs focused on variables, loops, type casting, and control flow concepts.
+
+## Topics Covered
+- Variables in Python
+- While loops
+- Type casting
+- Switch/match case examples
+
+## Files
+- variable_basics.py
+- while_loop_examples.py
+- type_casting_examples.py
+- switch_case_examples.py
+
+## Learning Goal
+To improve understanding of Python control flow and fundamental programming concepts.
